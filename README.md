@@ -1,3 +1,12 @@
+# sparxel
+Single Page Application Research eXperiments in eLearning
+
+SPA Research eXperiment on different approaches to Single Page Applications for eLearning development.
+
+Our first approach is to leverage Hi-score by Michael Mikowski We are using his assets and libraries as the upstream resource.
+
+Below is the hi_score README:
+
 ![hi_score][_0A]
 [![Coverage Status](https://coveralls.io/repos/github/mmikowski/hi_score/badge.svg?branch=master)](https://coveralls.io/github/mmikowski/hi_score?branch=master)
 
